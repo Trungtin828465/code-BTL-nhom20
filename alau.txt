@@ -1,0 +1,9 @@
+  Menu mon lau 
+ 
+STT            Ten mon                  Gia thanh      
+ 1             Lau thap cam                90k             
+ 2             Lau thai chua cay           100k
+ 3             Lau ca keo                  125k
+ 4             Lau ech                     100k
+ 5             Lau reu cua                 95k  
+ 6             Lau bo                      130k

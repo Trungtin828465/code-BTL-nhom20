@@ -1,0 +1,19 @@
+<<<<<<<< Nha Hang TNPN >>>>>>>>
+--Ten khach hang: Nguyen Trung Tin
+--Tuoi khach hang: 19
+--Gioi tinh: Nam
+--SDT khach hang: 0372602071
+<<Danh sach mon nuong>>
+1. Thit Ba Chi Nuong     120k
+2. Tom Nuong Muoi Ot     70k
+3. Thit Bo Nuong Tang    210k
+<<Danh sach mon lau>>
+1. Lau Thap Cam          90k
+2. Lau Thai Chua Cay     100k
+3. Lau Ca Keo            125k
+<<Danh sach mon nuoc>>
+1. Bia Tiger             15k
+2. Bia SaiGon            13k
+3. Sting                 10k
+Tong Bill Cua Quy Khach La: 753
+---------Cam on quy khach------------

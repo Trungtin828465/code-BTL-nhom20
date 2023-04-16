@@ -1,0 +1,9 @@
+                Menu mon nuong 
+ 
+STT            Ten mon                  Gia thanh      
+1             Thit ba chi nuong           120k               
+2             Tom nuong muoi ot           70k
+3             Thit bo nuong tang          210k
+4             Thit bo nuong cay           150k
+5             Muc nuong                   120k
+6             Suong nuong Han Quoc        140k

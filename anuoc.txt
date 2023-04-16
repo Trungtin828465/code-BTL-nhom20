@@ -1,0 +1,9 @@
+                Menu nuoc giai khat
+ 
+STT            Ten mon                  Gia thanh      
+ 1             Bia tiger                   15k
+ 2             Bia Sai Gon                 13k
+ 3             Sting                       10k
+ 4             7up                         10k
+ 5             Pepsi                       10k
+ 6             Aquafina                    10k
